@@ -21,11 +21,15 @@ because i wanted/had to build this in one day, i did not bother with a RTC as i 
 Note: during the 1 year functioning period, i had some issues at the beggining (explained in the hardware section). just a passionate physics (+robotics) teacher bothered setting the time in case of a power outage / time freezing case... so a RTC would be a very welcomed module.
 
 hardware:
+
 -arduino uno
+
 -mullie function shield (with a 4 digit display for the time and buttons to set the time + day)
+
 -few buttons and switches (for manual / auto mode - useful for exam days, holydays; normal/long classes, and a button to trigger the bell manually, like you would do with the "light switch")
+
 -leds for idicating the day 
+
 -bad looking, kinda bulky housing.
---5V were not sufficient. the clock would freeze from time to time, causing me to go and commit a "ring" of shame during the classes/breaks. with a 9V charger it works just fine, no random freezes so far during a ~6 months period.--
 
-
+--5V were not sufficient. the clock would freeze from time to time, causing me to go and commit a "ring" of shame during the classes/breaks. with a 9V charger it works just fine, no random freezes/bugs so far during a ~6 months period.--
