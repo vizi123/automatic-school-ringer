@@ -6,6 +6,7 @@ because i like programming & messing up with random hardware & creating stuff fr
 the bell in my school is triggered by a "light switch" that would auto-release itself after you take your had off it (i dont know how its called but it looks exactly like a usual one; a light switch with a spring inside at one end)
 into the light switch were inserted 2 wires -  hot wire and a ground one; 
 
-connect these 2 wires => bell rings
+connect these 2 wires => bell rings;
+
 disconnect there 2 wires => nothing
 => we have a "how to turn on a lightbulb with arduino + relay tutorial" youtube situation. hope you got the idea.
