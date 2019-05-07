@@ -16,7 +16,7 @@ i added 2 more wires between the relay and the already existent switch. in case 
 
 
 software:
-because i wanted/had to build this in one day, i did not bother with a RTC as i could not find any functional one in the entire city in that day. it measures the time using millis() function and storing the time, minutes, hours and the current date in 4 variables. set up the clock once and hope for the best that it runs as long as possible. losing power would result in resetting the date/time to 00:00, monday. the device has buttons so anyone can set up the clock manually in case of a power outage (or if anyone pulls the charger out of the socket........). 
+because i wanted/had to build this in one day, i did not bother with a RTC as i could not find any functional one in the entire city that day; it measures the time using millis() function and storing the time, minutes, hours and the current date in 4 variables. set up the clock once and hope for the best that it runs as long as possible. losing power would result in resetting the date/time to 00:00, monday. the device has buttons so anyone can set up the clock manually in case of a power outage (or if anyone pulls the charger out of the socket........). 
 
 Note: during the 1 year functioning period, i had some issues at the beggining (explained in the hardware section). just a passionate physics (+robotics) teacher bothered setting the time in case of a power outage / time freezing case... so a RTC would be a very welcomed module.
 
