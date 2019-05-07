@@ -9,4 +9,5 @@ into the light switch were inserted 2 wires -  hot wire and a ground one;
 connect these 2 wires => bell rings;
 
 disconnect there 2 wires => nothing
+
 => we have a "how to turn on a lightbulb with arduino + relay tutorial" youtube situation. hope you got the idea.
