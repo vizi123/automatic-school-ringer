@@ -36,4 +36,4 @@ hardware:
 
 
 Later update:
-As the useless baccalaureate exam(s) finished (and because by the beggining of the next school year I will no longer be near my device), I have decided to add a RTC to the device. I have removed the potentiometer from the mullie shield and connected the rtc via the dedicated sql and sda pins on my chinese clone (https://images.app.goo.gl/Z8XFEowb6UQwUkF5A).
+As the useless baccalaureate exam(s) finished (and because by the beggining of the next school year I will no longer be near my device), I have decided to add a RTC to the device. I have removed the potentiometer from the mullie shield and connected the rtc via the dedicated sql and sda pins on the chinese arduino clone (see photos folder and https://images.app.goo.gl/Z8XFEowb6UQwUkF5A).
