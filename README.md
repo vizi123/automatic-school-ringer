@@ -28,7 +28,7 @@ hardware:
 
 -few buttons and switches (for manual / auto mode - useful for exam days, holydays; normal/long classes, and a button to trigger the bell manually, like you would do with the "light switch")
 
--leds for idicating the day 
+-leds idicating the day 
 
 -bad looking, kinda bulky housing.
 
