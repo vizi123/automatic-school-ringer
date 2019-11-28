@@ -1,5 +1,5 @@
 # automatic-school-ringer
-how i made this / story: good governants => chaos in (some) schools due to the removal of the service shift for highschool students that used to trigger the saving bell every day. at that moment, not every school had an automatic ringer (incl mine) which costed at the time of writing around 300 euros.
+how i made this / story: random government decision => chaos in (some) schools due to the removal of the service shift for highschool students that used to trigger the "saving" bell every day. at that moment, not every school had an automatic ringer (incl mine) which costed at the time of writing around 300 euros.
 
 because i like programming & messing up with random hardware & creating stuff from scratch i volunteered to build a "thing" in 1 day which would actionate the bell in the school without any human interaction. *so the ETERNAL FRENCH CLASSES could not eat any more of the short break time*
 
@@ -38,4 +38,4 @@ hardware:
 Later update 1:
 As the useless baccalaureate exam(s) finished (and because by the beggining of the next school year I will no longer be near my device), I have decided to add a RTC to the device. I have removed the potentiometer from the mullie shield and connected the rtc via the dedicated sql and sda pins on the chinese arduino clone (see photos folder and https://images.app.goo.gl/Z8XFEowb6UQwUkF5A).
 
-Later update 2: 0 issues so far. the device has been working for ~3 months at the time of writing this
+Later update 2: 0 issues so far. the device has been working for ~3 months at the time of writing this update
