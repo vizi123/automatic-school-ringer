@@ -24,7 +24,7 @@ hardware:
 
 -arduino uno
 
--mullie function shield (with a 4 digit display for the time and buttons to set the time + day)
+-custom* mullie function shield (with a 4 digit display for the time and buttons to set the time & day; * i removed the potentiometer from the shield and used that analog port for something else)
 
 -few buttons and switches (for manual / auto mode - useful for exam days, holydays; normal/long classes, and a button to trigger the bell manually, like you would do with the "light switch")
 
