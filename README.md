@@ -38,4 +38,4 @@ hardware:
 Later update 1:
 As the useless baccalaureate exam(s) finished (and because by the beggining of the next school year I will no longer be near my device), I have decided to add a RTC to the device. I have removed the potentiometer from the mullie shield and connected the rtc via the dedicated sql and sda pins on the chinese arduino clone (see photos folder and https://images.app.goo.gl/Z8XFEowb6UQwUkF5A).
 
-Later update 2: 0 issues so far. the device has been working for ~3 months at the time of writing this update
+Later update 2: 0 issues so far. the device has been working for 5 months at the time of writing this update
