@@ -44,4 +44,4 @@ Later update 2: 0 issues so far. the device has been working for 5 months at the
 Photos:
 ![](photos/IMG_0253.jpg)
 ![](photos/IMG_0254.jpg)
-![](photos/IMG_9877.jpg)
+![](photos/IMG_9877.JPG)
