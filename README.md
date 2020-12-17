@@ -4,7 +4,7 @@ how i made this / story: random government decision => chaos in (some) schools d
 
 because i like programming & messing up with random hardware & creating stuff from scratch i volunteered to build a "thing" in 1 day which would actionate the bell in the school without any human interaction. *so the ETERNAL FRENCH CLASSES could not eat any more of the short break time*
 
-the bell in my school is triggered by a "light switch" (https://images.app.goo.gl/EwDriSqizbXDUWe29 that would auto-release itself after you take your had off it (i dont know how its called... light switch with a spring inside at one end? ).
+the bell in my school is triggered by a "light switch" <img src="https://www.retrotouch.co.uk/user/products/large/Simplicity%20range/Simplicity%20Rocker%20Switches/07000_Retrotouch%20Simplicity_1G%20Light%20Switch_White_Angle.jpg" width=100 height=100/> (that would auto-release itself after you take your hand off it (i dont know how its called... light switch with a spring inside at one end?).
 into the light switch were inserted 2 wires -  a hot wire and a ground one; 
 
 connect these 2 wires => bell rings;
@@ -42,6 +42,7 @@ As the useless baccalaureate exam(s) finished (and because by the beggining of t
 Later update 2: 0 issues so far. the device has been working for 5 months at the time of writing this update
 
 Photos:
-![](photos/IMG_0253.jpg)
-![](photos/IMG_0254.jpg)
-![](photos/IMG_9877.JPG)
+
+
+<img src="photos/IMG_0253.jpg" width=500/> <img src="photos/IMG_0254.jpg" width=500/>
+<img src="photos/IMG_9877.JPG" width=500/>
